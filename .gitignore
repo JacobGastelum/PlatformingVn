@@ -49,3 +49,6 @@ output.json
 #NDK
 obj/
 .externalNativeBuild
+Intermediate/
+Saved/StagedBuilds/Android_ASTC/
+Saved/EditorCooked/Android_ASTC/
